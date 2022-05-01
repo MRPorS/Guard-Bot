@@ -1,0 +1,18 @@
+{
+  "OwnerID":"806875348197048320", 
+  "Prefix":"!", 
+  "Token":"", 
+  "Status": "**Developer By MRPor**",
+  "guildID":"960192739604070480", 
+  "logChannelID":"969933413446475776", 
+  "channelProtection":true,
+  "roleProtection":true,
+  "botProtection":true,
+  "banProtection":true,
+  "kickProtection":true,
+  "serverProtection":true,
+  "rightClickProtection":true, 
+  "whitelist":["", "", ""], 
+  "boosterRole":"", 
+  "jailRole":"970297475476893696" 
+}
